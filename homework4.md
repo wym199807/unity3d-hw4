@@ -14,3 +14,4 @@
 文本框组：在 Component的UI里新建text，并设置三个文本 Main Text,Round Text,Score Text，分别表示主文本，当前回合数，当前分数。
 
 代码已上传，视频链接：
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzU0NTM1MzQ3Mg==' frameborder=0 'allowfullscreen'></iframe>
